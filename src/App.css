@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body{
+  background-color: red;
+}
+
+
+.dadone {
+  position:absolute;
+  width: 50%;
+  height:30%;
+  background-color: white;
+  left: 25%;  
+  top: 35%;
+  box-shadow: 2px 2px;
+}
+
+.son {
+  display: flex;
+  margin: 10px;
+  gap: 4px;
+}
+
+
+.sontwo {
+  position: absolute;
+  right: 10px;
+  bottom: 50px;
+}
+
+.sonthree {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  
+  
+}
+
+.button {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  
+}
+
